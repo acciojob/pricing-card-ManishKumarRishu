@@ -15,3 +15,12 @@ h1{
 p{
 	font-size:30px
 }
+.buy{
+	align-items:center
+		padding:100px;
+		background-color:;
+		font-color:white;
+	  border-radius:20px;
+	 background-color:rgb(255,98,91);
+     text-align: center;
+	}
