@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
 .card{
+	padding:10px;
 	background-color:rgb(241,241,241);
 	width:400px;
 	height:600px;
