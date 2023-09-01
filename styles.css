@@ -3,11 +3,15 @@
 	background-color:rgb(241,241,241);
 	width:400px;
 	height:600px;
-	box-shadow: 0 4px 20px  black,  0 4px 20px  black;
+	box-shadow: 0 4px 10px  black,  0 2px 10px  black;
 }
 #image{
+	margin:50px;
 	
-	  margin:50px;
+}
+h1{
+	font-size:50px;
 	
-	
+p{
+	font-size:30px
 }
