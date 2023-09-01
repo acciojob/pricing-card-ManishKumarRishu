@@ -1,5 +1,13 @@
 /*  your css code here. If applicable */
-.main{
-	background-color:blue;
-	width:20px
+.card{
+	background-color:rgb(241,241,241);
+	width:400px;
+	height:600px;
+	box-shadow: 0 4px 20px  black,  0 4px 20px  black;
+}
+#image{
+	
+	  margin:50px;
+	
+	
 }
